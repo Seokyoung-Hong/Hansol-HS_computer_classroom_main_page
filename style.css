@@ -2,12 +2,10 @@
     background-color: transparent;
 }
 
-
-
 .nav {
     /* margin-bottom: 5vh; */
     /* margin-top: 2vh; */
-    height: 5vh;
+    height: auto;
     text-align: center;
 
 }
@@ -15,8 +13,10 @@
     text-align: center;
     margin: 0 auto;
     clear:both;
-    
+    font-family: 'Noto Sans KR Regular', sans-serif;
+
 }
+
 .title {
     font-size: 3rem;
     font-family: 'Noto Sans KR', sans-serif;
@@ -26,11 +26,13 @@
 .btn {
     margin-top: 1%;
     min-width: 100px;
-    width: 30vw;
+    width: 24vw;
     height: 10vh;
     outline: 0px;
     border: 0px;
     display: inline-block;
+    font-family: 'Noto Sans KR Regular', sans-serif;
+    font-size: 100%;
 }
 
 .btn-icon {
