@@ -32,6 +32,7 @@
     display: inline-block;
     font-family: 'Noto Sans KR Regular', sans-serif;
     font-size: 100%;
+    cursor:pointer;
 }
 
 .btn-icon {
