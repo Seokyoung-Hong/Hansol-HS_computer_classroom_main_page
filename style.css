@@ -27,12 +27,12 @@
     margin-top: 1%;
     min-width: 100px;
     width: 24vw;
-    height: 10vh;
+    height: 12vh;
     outline: 0px;
     border: 0px;
     display: inline-block;
     font-family: 'Noto Sans KR Regular', sans-serif;
-    font-size: 100%;
+    font-size: 150%;
     cursor:pointer;
 }
 
